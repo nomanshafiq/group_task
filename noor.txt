@@ -1,8 +1,4 @@
 1. I am currently learning web development with a focus on the MERN stack (MongoDB, Express, React, Node.js).
 2. Alongside this, I am strengthening my skills in JavaScript, Python, and Data Science concepts.
 3. I enjoy combining my mathematics background with technology to solve real-world problems.
-<<<<<<< HEAD
-changed by asad
-=======
-i have acknowledged..
->>>>>>> e9a8f7566cdd3034b2543d79e22df2e473bd8d0b
+4.error remove
